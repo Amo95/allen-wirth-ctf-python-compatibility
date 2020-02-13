@@ -11,5 +11,5 @@ This repo contains update on the python script from Microwave Sam/ ALlen Wirth c
 * just use the usual cpython argument variables ~ ``python3 captcha.py`` or ``python captcha.py`` 
 Anyways works.
 
-``Follow me on Twitter: ``[@hakAfrique](https://twitter.com/hakAfrique)
-``Follow me on Github: ``[amo95](https://github.com/Amo95)
+1. ``Follow me on Twitter: ``[@hakAfrique](https://twitter.com/hakAfrique)
+2. ``Follow me on Github: ``[amo95](https://github.com/Amo95)
